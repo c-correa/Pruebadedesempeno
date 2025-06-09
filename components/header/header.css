@@ -1,0 +1,39 @@
+.container_header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container_nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.container_navigation ul{
+    display: flex;
+    gap: 50px;
+}
+.title_header{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+@media (max-width: 670px) {
+   .content_card_img{
+    display: none;
+   }
+   .container_nav{
+    justify-content: center;
+    padding: 20px;
+   }
+   .container_header{
+    box-shadow: 7px 2px 9px 0px gray;
+   }
+   .title_header{
+    font-size: 0.8rem;
+   }
+   .container_navigation ul{
+    gap: 30px;
+}
+}
