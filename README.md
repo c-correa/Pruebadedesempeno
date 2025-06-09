@@ -47,7 +47,6 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 También puedes mirar la lista de todos mis [proyectos](https://github.com/c-correa) quíenes han participado en este proyecto. 
 
 
-
-
-
+# Repo en Git Hub
+* **Ver en GitHub** - *Ver en GitHub* - [Ver en GitHub](https://github.com/c-correa/Pruebadedesempeno)
 
